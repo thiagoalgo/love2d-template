@@ -1,28 +1,28 @@
-# .gitignore para projeto LÖVE (Love2D)
-# Não ignore .vscode!
+# .gitignore for LÖVE (Love2D) project
+# Do not ignore .vscode!
 
-# Arquivos temporários do sistema
+# System temporary files
 .DS_Store
 Thumbs.db
 
-# Arquivos de backup do editor
+# Editor backup files
 *~
 *.swp
 *.swo
 
-# Arquivos de log
+# Log files
 *.log
 
-# Arquivos de build/empacotamento
+# Build/package files
 *.love
 
-# Diretórios comuns de build
+# Common build directories
 /build/
 /dist/
 
-# Outros arquivos temporários
+# Other temporary files
 *.tmp
 *.temp
 
-# Diretórios de dependências (caso use luarocks ou libs externas)
+# Dependency directories (if using luarocks or external libs)
 /deps/
