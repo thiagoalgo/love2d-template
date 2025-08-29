@@ -6,7 +6,7 @@
             "type": "shell",
             "command": "/Applications/love.app/Contents/MacOS/love",
             "args": [
-                "${workspaceFolder}"  // pasta do seu projeto
+                "${workspaceFolder}"
             ],
             "group": {
                 "kind": "build",

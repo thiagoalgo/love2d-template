@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug Love",
+      "type": "lua-local",
+      "request": "launch",
+      "program": {
+        "command": "/Applications/love.app/Contents/MacOS/love"
+      },
+      "args": [
+        "${workspaceFolder}"
+      ],
+      "scriptRoots": [
+        "${workspaceFolder}"
+      ]
+    }
+  ]
+}

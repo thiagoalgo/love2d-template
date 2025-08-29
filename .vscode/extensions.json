@@ -2,6 +2,7 @@
 {
     "recommendations": [
         "sumneko.lua",
-        "janw.love-launcher"
+        "janw.love-launcher",
+        "tomblind.local-lua-debugger-vscode"
     ]
 }
