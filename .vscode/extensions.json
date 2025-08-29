@@ -1,0 +1,7 @@
+// Shows the recommended extensions popup
+{
+    "recommendations": [
+        "sumneko.lua",
+        "janw.love-launcher"
+    ]
+}
